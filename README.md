@@ -50,6 +50,13 @@ We use this categorical data encoding technique when the features are nominal(do
 <img width="1140" height="622" alt="image" src="https://github.com/user-attachments/assets/25b2054e-ffeb-4b3b-8c24-3b9c896fd0bd" />
 <img width="1468" height="587" alt="image" src="https://github.com/user-attachments/assets/df3965d4-9f59-4c2c-9275-3c4347c97d4e" />
 <img width="1137" height="642" alt="image" src="https://github.com/user-attachments/assets/8b4eb98f-ee96-4216-9d3d-e0f9d59d9a8c" />
+<img width="1473" height="603" alt="image" src="https://github.com/user-attachments/assets/6e648b75-4801-4714-a1e9-b496242835dc" />
+<img width="1335" height="686" alt="image" src="https://github.com/user-attachments/assets/24814d09-5abf-4e91-af3c-3081496f71cf" />
+<img width="1366" height="600" alt="image" src="https://github.com/user-attachments/assets/3926153e-42e9-41e2-afda-a7d41c70faab" />
+<img width="1452" height="722" alt="image" src="https://github.com/user-attachments/assets/f513df52-11f3-4e47-b681-e58d64d30fff" />
+<img width="1372" height="462" alt="image" src="https://github.com/user-attachments/assets/50f868f3-8f29-4c07-a451-e57eda45f4fe" />
+<img width="1001" height="553" alt="image" src="https://github.com/user-attachments/assets/2949b5d5-e9fc-4ce5-90d8-e1d115764f4f" />
+
 
 
 
@@ -69,6 +76,6 @@ We use this categorical data encoding technique when the features are nominal(do
 
   
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+          Thus we have successfully performed Feature Encoding and Transformation process and saved the data to a file.
 
        
